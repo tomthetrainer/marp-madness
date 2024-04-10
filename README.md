@@ -1,4 +1,4 @@
-# training-marp-example
+# Marp Madness
 This is a repo to demonstrate the use of marp for slide development
 
 
